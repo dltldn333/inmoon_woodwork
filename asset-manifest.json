@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/inmoon_woodwork/static/js/main.34c37933.js",
+    "main.js": "/inmoon_woodwork/static/js/main.51e24115.js",
     "static/media/NotoSansKR-Thin.otf": "/inmoon_woodwork/static/media/NotoSansKR-Thin.c0b38da137ebab3b294b.otf",
     "static/media/NotoSansKR-Light.otf": "/inmoon_woodwork/static/media/NotoSansKR-Light.7d4ce2f6f92cffc70600.otf",
     "static/media/NotoSansKR-Regular.otf": "/inmoon_woodwork/static/media/NotoSansKR-Regular.bf54b090356010039bab.otf",
@@ -14,12 +14,12 @@
     "static/media/NotoSansKR-Light.woff2": "/inmoon_woodwork/static/media/NotoSansKR-Light.e2557c2be18ddd169ee9.woff2",
     "static/media/NotoSansKR-Thin.woff2": "/inmoon_woodwork/static/media/NotoSansKR-Thin.9d23ca66b990f383e7a7.woff2",
     "static/media/main_img.jpeg": "/inmoon_woodwork/static/media/main_img.4c65d30f220b208e443f.jpeg",
-    "static/media/logo.svg": "/inmoon_woodwork/static/media/logo.56af21a2e9d88c2d7874809c9799e76b.svg",
+    "static/media/logo.svg": "/inmoon_woodwork/static/media/logo.7ccaef264cb54519e1e82055cbeb880c.svg",
     "index.html": "/inmoon_woodwork/index.html",
     "static/media/hamburger.svg": "/inmoon_woodwork/static/media/hamburger.adb1bb513133c4b09835ea03cd055435.svg",
-    "main.34c37933.js.map": "/inmoon_woodwork/static/js/main.34c37933.js.map"
+    "main.51e24115.js.map": "/inmoon_woodwork/static/js/main.51e24115.js.map"
   },
   "entrypoints": [
-    "static/js/main.34c37933.js"
+    "static/js/main.51e24115.js"
   ]
 }
