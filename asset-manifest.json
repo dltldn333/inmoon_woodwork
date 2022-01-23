@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/inmoon_woodwork/static/js/main.a9c44a4d.js",
+    "main.js": "/inmoon_woodwork/static/js/main.ed1113c0.js",
     "static/media/NotoSansKR-Thin.otf": "/inmoon_woodwork/static/media/NotoSansKR-Thin.c0b38da137ebab3b294b.otf",
     "static/media/NotoSansKR-Light.otf": "/inmoon_woodwork/static/media/NotoSansKR-Light.7d4ce2f6f92cffc70600.otf",
     "static/media/NotoSansKR-Regular.otf": "/inmoon_woodwork/static/media/NotoSansKR-Regular.bf54b090356010039bab.otf",
@@ -18,9 +18,9 @@
     "static/media/imh_typo.svg": "/inmoon_woodwork/static/media/imh_typo.1952fead91b15ea37eb473698b0bead1.svg",
     "index.html": "/inmoon_woodwork/index.html",
     "static/media/hamburger.svg": "/inmoon_woodwork/static/media/hamburger.adb1bb513133c4b09835ea03cd055435.svg",
-    "main.a9c44a4d.js.map": "/inmoon_woodwork/static/js/main.a9c44a4d.js.map"
+    "main.ed1113c0.js.map": "/inmoon_woodwork/static/js/main.ed1113c0.js.map"
   },
   "entrypoints": [
-    "static/js/main.a9c44a4d.js"
+    "static/js/main.ed1113c0.js"
   ]
 }
